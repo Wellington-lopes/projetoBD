@@ -1,0 +1,201 @@
+id_paciente,nome,especie,raca,peso,id_cliente
+1,Rex,Cachorro,Labrador,30.5,5
+2,Bella,Cachorro,Border Collie,16.2,88
+3,Luna,Gato,Siames,4.8,12
+4,Max,Cachorro,Bulldog,24.3,67
+5,Oliver,Gato,Persa,5.4,34
+6,Charlie,Cachorro,Poodle,14,23
+7,Mia,Gato,Maine Coon,6.5,99
+8,Lucy,Cachorro,Beagle,12.7,18
+9,Simba,Gato,Ragdoll,7.2,56
+10,Bailey,Cachorro,Boxer,25.4,78
+11,Stella,Gato,British Shorthair,5.6,43
+12,Maggie,Cachorro,Schnauzer,10.9,52
+13,Chloe,Gato,Bengal,4.5,95
+14,Sadie,Cachorro,Dachshund,9.3,37
+15,Zoe,Gato,Sphynx,3.6,68
+16,Lola,Cachorro,Chihuahua,2.2,84
+17,Sophie,Gato,Scottish Fold,4.2,27
+18,Daisy,Cachorro,Pitbull,22.7,76
+19,Lily,Gato,Abyssinian,4,49
+20,Sadie,Cachorro,Cocker Spaniel,12,64
+21,Ruby,Gato,Norwegian Forest,5.5,86
+22,Buddy,Cachorro,Bulldog Francês,11,13
+23,Jack,Gato,Himalayan,6.2,31
+24,Gracie,Cachorro,Maltês,3.5,74
+25,Rosie,Gato,Exotic Shorthair,4.5,57
+26,Ellie,Cachorro,Shih Tzu,6.8,21
+27,Molly,Gato,Oriental Shorthair,4.3,45
+28,Zoe,Cachorro,Yorkshire Terrier,2.7,91
+29,Ginger,Gato,American Shorthair,5.1,11
+30,Harley,Cachorro,Pastor Alemão,29,2
+31,Rocky,Cachorro,Rottweiler,35.8,72
+32,Milo,Gato,Russian Blue,5.8,24
+33,Coco,Cachorro,Shiba Inu,10.5,14
+34,Mittens,Gato,Domestic Shorthair,4,63
+35,Bear,Cachorro,Golden Retriever,28.6,47
+36,Buster,Cachorro,Basset Hound,18.4,55
+37,Whiskers,Gato,Siamese Mix,6.9,69
+38,Lucky,Cachorro,Jack Russell Terrier,9.8,28
+39,Mittens,Gato,Maine Coon Mix,7.3,82
+40,Maximus,Cachorro,Doberman,32.1,19
+41,Oreo,Gato,Tuxedo,5.2,44
+42,Duke,Cachorro,German Shepherd,27.8,77
+43,Smokey,Gato,Persian,6.6,32
+44,Bailey,Cachorro,Australian Shepherd,21.5,59
+45,Cleo,Gato,Calico,4.7,92
+46,Bruno,Cachorro,Saint Bernard,55.3,22
+47,Sassy,Gato,Himalayan Mix,5.9,61
+48,Roscoe,Cachorro,Pug,12.9,48
+49,Misty,Gato,Balinese,4.3,83
+50,Rufus,Cachorro,Labradoodle,20.7,29
+51,Gizmo,Gato,Manx,5.6,67
+52,Chico,Cachorro,Chow Chow,24.8,74
+53,Misty,Gato,Burmese,4.8,52
+54,Riley,Cachorro,Siberian Husky,29.6,16
+55,Felix,Gato,Bombay,5,88
+56,Milo,Cachorro,Shih Tzu,7.8,42
+57,Luna,Gato,Havana Brown,4.5,75
+58,Rocky,Cachorro,Bernese Mountain Dog,45.2,27
+59,Whiskey,Gato,Savannah,8.2,49
+60,Bailey,Cachorro,Pomeranian,5.7,65
+61,Cleo,Gato,Ragamuffin,6.9,21
+62,Cooper,Cachorro,Cavalier King Charles Spaniel,11.6,36
+63,Salem,Gato,Cornish Rex,4.2,97
+64,Toby,Cachorro,Bichon Frise,9.4,82
+65,Mia,Gato,Somali,5.8,58
+66,Dexter,Cachorro,Dalmatian,19.7,47
+67,Zara,Gato,Turkish Angora,4.8,64
+68,Hunter,Cachorro,Collie,22.5,33
+69,Sasha,Gato,Siamese Mix,7.6,73
+70,Leo,Cachorro,Great Dane,35.8,28
+71,Phoebe,Gato,Himalayan,5.3,89
+72,Gus,Cachorro,Australian Cattle Dog,16.9,55
+73,Minnie,Gato,Japanese Bobtail,4.6,41
+74,Teddy,Cachorro,Maltese,6.7,67
+75,Mochi,Gato,American Curl,5.1,92
+76,Rocco,Cachorro,Staffordshire Bull Terrier,21.2,78
+77,Nala,Gato,Tonkinese,6.4,54
+78,Winston,Cachorro,Shetland Sheepdog,15.8,31
+79,Princess,Gato,Havana Brown,5.7,26
+80,Tyson,Cachorro,Bullmastiff,32.6,42
+81,Cali,Gato,Siberian,7.3,35
+82,Rusty,Cachorro,Vizsla,19.4,64
+83,Molly,Gato,American Bobtail,5.9,49
+84,Brutus,Cachorro,Bordeaux Mastiff,28.5,77
+85,Hazel,Gato,Ocicat,6.2,58
+86,Loki,Cachorro,Alaskan Malamute,26.8,38
+87,Fiona,Gato,Birman,4.8,67
+88,Apollo,Cachorro,Great Pyrenees,40.3,23
+89,Mimi,Gato,Singapura,4.3,94
+90,Bear,Cachorro,Newfoundland,50.7,71
+91,Sunny,Gato,Japanese Bobtail,5.6,82
+92,Ranger,Cachorro,Rhodesian Ridgeback,29.9,56
+93,Misty,Gato,Chartreux,4.7,39
+94,Ace,Cachorro,Australian Terrier,8.9,87
+95,Mila,Gato,European Shorthair,5,52
+96,Simba,Cachorro,Leonberger,40.5,19
+97,Lola,Cachorro,Miniature Pinscher,5.8,62
+98,Loki,Gato,Russian Blue,7.2,79
+99,Rocky,Cachorro,Bulldog Americano,30.4,88
+100,Misty,Gato,Nebelung,6.1,46
+101,Buddy,Cachorro,Cane Corso,42.7,53
+102,Zara,Gato,Burmilla,5.5,67
+103,Daisy,Cachorro,Samoyed,22.8,74
+104,Olive,Gato,Havana,4.9,81
+105,Maximus,Cachorro,Italian Greyhound,14.3,29
+106,Mia,Gato,Khao Manee,6.2,93
+107,Cooper,Cachorro,Akita Inu,34.5,42
+108,Luna,Gato,Ragamuffin,5.6,57
+109,Charlie,Cachorro,Nova Scotia Duck Tolling Retriever,18.9,65
+110,Cleo,Gato,Snowshoe,7,71
+111,Bruno,Cachorro,Leonberger,28.6,83
+112,Nina,Gato,Oriental,4.4,92
+113,Bailey,Cachorro,Papillon,5.9,39
+114,Sasha,Gato,Sphynx,5.3,48
+115,Harley,Cachorro,Coton de Tulear,9.8,76
+116,Milo,Gato,Egyptian Mau,6.7,84
+117,Baxter,Cachorro,Whippet,17.2,51
+118,Layla,Gato,Tonkinese,6.8,63
+119,Zeus,Cachorro,Bichon Frise,13.5,29
+120,Mia,Gato,Munchkin,4.1,77
+121,Apollo,Cachorro,Italian Greyhound,8.7,88
+122,Willow,Gato,Birman,5.5,42
+123,Gus,Cachorro,English Springer Spaniel,23.6,55
+124,Luna,Gato,Cornish Rex,4.6,64
+125,Roscoe,Cachorro,Cavalier King Charles Spaniel,11.8,83
+126,Cleo,Gato,Turkish Van,6.4,49
+127,Hunter,Cachorro,Belgian Malinois,31.7,91
+128,Misty,Gato,Russian Blue,5.2,76
+129,Leo,Cachorro,Miniature Schnauzer,15.9,58
+130,Lola,Gato,Siamese Mix,7.1,37
+131,Max,Cachorro,Poodle,9.6,24
+132,Milo,Gato,Siberian,6,96
+133,Duke,Cachorro,Shiba Inu,20.3,72
+134,Lucy,Gato,Burmese,4.9,13
+135,Bentley,Cachorro,Chow Chow,25.5,19
+136,Sasha,Gato,American Curl,5.8,28
+137,Ruby,Cachorro,Nova Scotia Duck Tolling Retriever,19.8,47
+138,Sophie,Gato,Balinese,5.4,62
+139,Thor,Cachorro,Bull Terrier,24.7,79
+140,Minnie,Gato,Chartreux,4.8,88
+141,Bella,Cachorro,Japanese Chin,8.5,32
+142,Milo,Gato,Bengal,6.7,47
+143,Ziggy,Cachorro,West Highland White Terrier,10.9,55
+144,Luna,Gato,Birman,5.6,64
+145,Max,Cachorro,Papillon,7.8,73
+146,Lola,Gato,Exotic Shorthair,4.9,82
+147,Charlie,Cachorro,Coton de Tulear,13.2,91
+148,Lily,Gato,Manx,5.3,16
+149,Rocky,Cachorro,Basset Hound,28.6,27
+150,Misty,Gato,Devon Rex,4.6,34
+151,Dexter,Cachorro,Schipperke,11.7,43
+152,Nala,Gato,Havana Brown,6.1,52
+153,Bailey,Cachorro,Brussels Griffon,8.9,61
+154,Sasha,Gato,Cymric,5.2,72
+155,Bentley,Cachorro,Italian Greyhound,16.3,86
+156,Sophie,Gato,Bombay,5.8,98
+157,Ollie,Cachorro,Toy Fox Terrier,9.4,41
+158,Smokey,Gato,Pixie-bob,7.2,57
+159,Bella,Cachorro,Tibetan Mastiff,27.8,63
+160,Lulu,Gato,Siamese,5.1,71
+161,Leo,Cachorro,Border Terrier,10.5,82
+162,Cleo,Gato,Himalayan,6.8,92
+163,Rocky,Cachorro,Portuguese Water Dog,22.6,26
+164,Zoe,Gato,Maine Coon,7.3,34
+165,Rusty,Cachorro,Nova Scotia Duck Tolling Retriever,15.2,48
+166,Maggie,Gato,Ragdoll,6.9,56
+167,Buddy,Cachorro,Maltese,8.8,67
+168,Luna,Gato,Burmese,5.4,72
+169,Sammy,Cachorro,Borzoi,26.7,89
+170,Coco,Gato,Savannah,4.7,95
+171,Duke,Cachorro,Belgian Tervuren,29.8,51
+172,Callie,Gato,Oriental Longhair,6.1,67
+173,Rocco,Cachorro,Black and Tan Coonhound,30.9,74
+174,Mimi,Gato,American Bobtail,5.8,83
+175,Toby,Cachorro,Nova Scotia Duck Tolling Retriever,12.7,94
+176,Misty,Gato,Munchkin,4.6,98
+177,Riley,Cachorro,Bernese Mountain Dog,31.4,59
+178,Mia,Gato,Korat,5.5,67
+179,Buster,Cachorro,Dalmatian,19.8,75
+180,Willow,Gato,Somali,6.2,82
+181,Cooper,Cachorro,Irish Setter,26.5,92
+182,Lola,Gato,Tonkinese,4.9,51
+183,Jack,Cachorro,Shetland Sheepdog,13.2,67
+184,Gracie,Gato,American Curl,5.7,74
+185,Sam,Cachorro,Labradoodle,20.1,89
+186,Mocha,Gato,Birman,6.4,95
+187,Bailey,Cachorro,Briard,29.2,52
+188,Mittens,Gato,Cymric,4.8,63
+189,Tucker,Cachorro,Leonberger,32.6,71
+190,Sasha,Gato,Korat,5.2,84
+191,Luna,Cachorro,Bulldog Francês,11.8,91
+192,Oliver,Gato,Manx,6.1,98
+193,Lucy,Cachorro,Nova Scotia Duck Tolling Retriever,14.5,46
+194,Milo,Gato,Bengal,5.9,57
+195,Charlie,Cachorro,Belgian Tervuren,24.9,64
+196,Chloe,Gato,Sphynx,4.5,73
+197,Bentley,Cachorro,Cane Corso,31.3,86
+198,Lily,Gato,Himalayan,5.8,95
+199,Rocky,Cachorro,Borzoi,27.2,4
+200,Mew,Gato,Korat,4.5,53
