@@ -11,7 +11,7 @@ Foram criadas as tabelas Atendimentos, Clientes, Pacientes e Funcionários e rea
 - [Wellington Soares Lopes](https://github.com/Wellington-lopes)
 
 ## Diagrama Entidade-Relacionamento
-[](https://github.com/gustavoaamorim/projetoBD/blob/2a48cbb7ffec317b70a545515ddc16c86157161d/diagrama_ER.jpeg)
+[Diagrama](https://github.com/gustavoaamorim/projetoBD/blob/2a48cbb7ffec317b70a545515ddc16c86157161d/diagrama_ER.jpeg)
 
 
 ## Conexão com banco de dados usando Python
