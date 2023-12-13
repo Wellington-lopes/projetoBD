@@ -44,3 +44,11 @@ select * from pacientes;
 select * from atendimentos;
 select * from funcionarios;
 
+
+
+
+
+
+
+
+
