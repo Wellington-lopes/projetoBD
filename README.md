@@ -1,21 +1,21 @@
 # Projeto Pet System
 ## Módulo Banco de Dados
-Nesse módulo, criaremos uma conexão com um banco de dados PostgreSQL, com dados de uma clínica veterinária.
+Nesse módulo, foi proposto a criação um banco de dados PostgreSQL e utilizamos os dados de uma clínica veterinária para desenvolvimento do projeto.
+
 Foram criadas as tabelas Atendimentos, Clientes, Pacientes e Funcionários e realizadas consultas para extrair dados estatísticos do banco de dados.
 
-## Equipe
-- Gustavo Amorim
-- [João Victor Lemos da Silva ](https://github.com/victorlemos1)
-- [Maressa Karen Henrique da Silva](https://github.com/maressakaren)
-- [Mariana Franz Marroquim](https://github.com/framzz)
-- [Wellington Soares Lopes](https://github.com/Wellington-lopes)
+Acesse o dashboard com as consultas e queries utilizadas [clicando aqui](dashboard_consultas.xlsx).
+
+Acesse os scripts SQL usados para criar as tabelas e realizar as consultas [clicando aqui](scripts_sql).
+
 
 ## Diagrama Entidade-Relacionamento
-[Diagrama](https://github.com/gustavoaamorim/projetoBD/blob/2a48cbb7ffec317b70a545515ddc16c86157161d/diagrama_ER.jpeg)
+<img src="diagrama_ER.jpeg">
+
 
 
 ## Conexão com banco de dados usando Python
-## Diretório
+### Diretório
 
 ```bash
 ├── data
@@ -55,3 +55,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Equipe
+- [Gustavo Amorim](https://github.com/gustavoaamorim)
+- [João Victor Lemos da Silva ](https://github.com/victorlemos1)
+- [Maressa Karen Henrique da Silva](https://github.com/maressakaren)
+- [Mariana Franz Marroquim](https://github.com/framzz)
+- [Wellington Soares Lopes](https://github.com/Wellington-lopes)
