@@ -1,3 +1,4 @@
+
 --Criando tabelas do banco
 
 create table funcionarios (
@@ -39,11 +40,16 @@ create table atendimentos (
 	foreign key(id_paciente) references pacientes(id_paciente)
 );
 
+-- Comando para copiar dados do csv local para as tabelas
+copy funcionarios(id_func, nome, especialidade, telefone, status)
+from 'C:\funcionarios.csv'
+delimiter ','
+csv header;
+
 select * from clientes;
 select * from pacientes;
 select * from atendimentos;
 select * from funcionarios;
-
 
 
 

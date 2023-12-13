@@ -1,7 +1,6 @@
 -- 1.Número total de atendimentos de cada funcionário
 
 select 
-	f.id_func,
 	f.nome,
 	count(a.id_func) as num_atendimentos
 from atendimentos a 
@@ -10,23 +9,14 @@ on a.id_func = f.id_func
 group by f.nome, f.id_func 
 order by num_atendimentos desc;
 
-SELECT 
-    funcionarios.id_func,
-    funcionarios.nome AS nome_funcionario,
-    COUNT(atendimentos.id_atendimento) AS total_atendimentos
-FROM funcionarios
-LEFT JOIN atendimentos ON funcionarios.id_func = atendimentos.id_func
-GROUP BY funcionarios.id_func, nome_funcionario
-ORDER BY total_atendimentos DESC;
-
-
--- 2.Calcular o ticket médio e faturamento mensal com base nos atendimentos:
+-- 2.Calcular o ticket médio, faturamento mensal e número de vendas com base nos atendimentos:
 
 SELECT 
     EXTRACT(MONTH FROM "data") AS mes,
     EXTRACT(YEAR FROM "data") AS ano,
     round(sum(valor)/count(id_atendimento),2) as ticket_medio,
-    SUM(valor) AS faturamento_mensal
+    SUM(valor) AS faturamento_mensal,
+    count(id_atendimento) as num_atendimentos
 FROM atendimentos
 GROUP BY mes, ano
 ORDER BY ano, mes;
@@ -49,16 +39,17 @@ WHERE peso IS NOT NULL
 GROUP BY raca
 order by peso_medio_por_raca desc;
 
--- 4.Quantidade de atendimento por espécie:
+-- 4.Quantidade mensal de atendimento por espécie:
 
 SELECT 
+	extract(month from a.data) as mês,
     p.especie,
     COUNT(a.id_atendimento) AS quantidade_atendimentos
 FROM atendimentos a 
 LEFT JOIN pacientes p  
 	ON a.id_paciente = p.id_paciente
-GROUP BY p.especie
-ORDER BY quantidade_atendimentos DESC;
+GROUP BY p.especie, mês
+ORDER BY mês, quantidade_atendimentos DESC;
 
 -- 5.Quais os 5 pacientes com mais atendimentos
 select 
